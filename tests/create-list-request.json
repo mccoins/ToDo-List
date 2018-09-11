@@ -1,0 +1,19 @@
+{
+	"List":{
+		"Id": "1",
+	    "Name": "first list",
+	    "Description": "Test 1 case creating list",
+	    "Tasks":[
+	        {
+	            "Id": "1",
+	            "Name": "Clean house",
+	            "Completed": false
+	        },
+	         {
+	            "Id": "2",
+	            "Name": "Clean car",
+	            "Completed": false
+	        }
+	    ]
+	}
+}
